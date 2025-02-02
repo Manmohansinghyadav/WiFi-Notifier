@@ -4,10 +4,10 @@ from telegram import Bot
 import asyncio
 import time
 
-IP = "192.168.188.255"
-KNOWN_DEVICES = ['f8:54:f6:5c:4d:f6']  
-TELEGRAM_BOT_TOKEN = "7507800332:AAG5FBzZwWln0qQQwWV1eBQ2rdBI26GIlZc"
-CHAT_ID = "-4736179538"  
+IP = "Use your's Owern IP"
+KNOWN_DEVICES = []  
+TELEGRAM_BOT_TOKEN = "Use you Token Telegram"
+CHAT_ID = "Add your token Telegram "  
 
 
 class NetworkScanner:
